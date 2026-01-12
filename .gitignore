@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# Environment variables (ΚΡΙΣΙΜΟ)
+.env
+
+# Docker
+.docker/
+
+# VS Code
+.vscode/
+
+# db
+db_data/
